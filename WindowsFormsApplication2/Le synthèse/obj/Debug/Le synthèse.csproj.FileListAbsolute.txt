@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\bin\Debug\Le synthèse.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\bin\Debug\Le synthèse.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\bin\Debug\Le synthèse.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\obj\Debug\Le synthèse.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\obj\Debug\Le_synthèse.Form1.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\obj\Debug\Le_synthèse.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\obj\Debug\Le synthèse.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\obj\Debug\Le synthèse.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Le synthèse\obj\Debug\Le synthèse.pdb

@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\La sommes des entiers\bin\Debug\La sommes des entiers.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\La sommes des entiers\bin\Debug\La sommes des entiers.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\La sommes des entiers\bin\Debug\La sommes des entiers.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\La sommes des entiers\obj\Debug\La sommes des entiers.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\La sommes des entiers\obj\Debug\La sommes des entiers.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\La sommes des entiers\obj\Debug\La sommes des entiers.pdb

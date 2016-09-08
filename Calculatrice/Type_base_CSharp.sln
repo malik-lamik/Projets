@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatrice", "Calculatrice\Calculatrice.csproj", "{BC4C7821-CD18-433A-AB2C-6BA5D80815EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatrice_Suite", "Calculatrice_Suite\Calculatrice_Suite.csproj", "{B87A56A9-59FB-413A-848D-D8251D300DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion F en C", "ConsoleApplication1\Conversion F en C.csproj", "{31563D60-EA02-4BDF-9C3D-3BCC8090BC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcul de moyenne", "Calcul de moyenne\Calcul de moyenne.csproj", "{0E6A1DA3-CD22-4733-91B2-16FE80F7D232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion du temps", "Conversion du temps\Conversion du temps.csproj", "{02897C4C-3FE2-46C8-AE44-3F82C290FB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversion du temps 2eme solution", "conversion du temps 2eme solution\conversion du temps 2eme solution.csproj", "{E33EA685-A292-4E08-95A0-7E808301A220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4C7821-CD18-433A-AB2C-6BA5D80815EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4C7821-CD18-433A-AB2C-6BA5D80815EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4C7821-CD18-433A-AB2C-6BA5D80815EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4C7821-CD18-433A-AB2C-6BA5D80815EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87A56A9-59FB-413A-848D-D8251D300DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87A56A9-59FB-413A-848D-D8251D300DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87A56A9-59FB-413A-848D-D8251D300DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87A56A9-59FB-413A-848D-D8251D300DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31563D60-EA02-4BDF-9C3D-3BCC8090BC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31563D60-EA02-4BDF-9C3D-3BCC8090BC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31563D60-EA02-4BDF-9C3D-3BCC8090BC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31563D60-EA02-4BDF-9C3D-3BCC8090BC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6A1DA3-CD22-4733-91B2-16FE80F7D232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6A1DA3-CD22-4733-91B2-16FE80F7D232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6A1DA3-CD22-4733-91B2-16FE80F7D232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6A1DA3-CD22-4733-91B2-16FE80F7D232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02897C4C-3FE2-46C8-AE44-3F82C290FB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02897C4C-3FE2-46C8-AE44-3F82C290FB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02897C4C-3FE2-46C8-AE44-3F82C290FB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02897C4C-3FE2-46C8-AE44-3F82C290FB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33EA685-A292-4E08-95A0-7E808301A220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33EA685-A292-4E08-95A0-7E808301A220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33EA685-A292-4E08-95A0-7E808301A220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33EA685-A292-4E08-95A0-7E808301A220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

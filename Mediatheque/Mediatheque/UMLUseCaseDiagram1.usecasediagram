@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="5131868f-71cc-4a4e-b4dc-3061e28dac3e" name="UMLUseCaseDiagram1" linkedPackageId="cb27026a-aa67-4861-a7e5-21f990b940fe" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="74ff4ebf-9f5b-43b2-905e-48c28d9ca934">
+      <profileInstance Id="31b8a680-02b1-4ebc-a28f-a0324e161387" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="ce2b7741-ed42-4493-9f8e-7026a7f6f9b9">
+      <profileInstance Id="02a14154-6d12-466c-82f6-fb58b26ef261" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="048962af-fd88-484f-a7b2-a001912bc340" name="Client" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="e35bc7a1-3dbf-49a3-854e-6b3b10ea3e3c" />
+        <targetEnds>
+          <association Id="13dcc578-db66-4cfd-b308-6b42c9e79c6c" isDerived="false" sourceEndRoleName="Actor1" targetEndRoleName="Livre" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="ee561fa0-2988-499b-bf3c-06b8e483e78f" LastKnownName="Livre" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="80be834f-f03a-47dc-91e7-384f46218a20" name="Actor1" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="56f44a7f-3103-41bc-8230-77d1df47fdef" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="0840c00e-8d08-4be4-9770-b627b23d625b" name="Livre" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="614bb0ce-3965-4a79-b821-cafabe88e08a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="8266dcc0-0c86-4a37-8973-2bb0ba24a5cd" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="ee561fa0-2988-499b-bf3c-06b8e483e78f" name="Livre" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="8fb957db-97b5-4d46-8c5d-398772a833bf" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="4ea3619a-87d4-40d5-87c0-7d3a172fc830" name="Personnel" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="29b1b5d3-e5fb-406f-ae6a-174c52f0285a" />
+        <targetEnds>
+          <association Id="482654b8-1c4c-417e-9103-35a8b0753c78" isDerived="false" sourceEndRoleName="Personnel" targetEndRoleName="Enregistrement du Client" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="8f0b3ad0-8fdc-498b-970c-6c48350776f8" LastKnownName="Enregistrement du Client" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f9a0fa7c-fd1c-4c0f-8adb-0fd1d18c63c4" name="Personnel" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="ce914c3b-111c-4188-a3f9-26fdd0ae7102" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a52ec2e5-1d8c-469b-88ba-a15bfedcbdd0" name="Enregistrement du Client" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="cc24a346-6e2b-4ecf-bb3f-d3bd56b7603a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="aa3a4749-3923-43fb-ad3c-2ad1132dc929" />
+          </association>
+          <association Id="1d925243-49e2-478a-9575-20c2cc70fb4e" isDerived="false" sourceEndRoleName="Personnel" targetEndRoleName="Achat de document" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="6fa9f253-4066-4257-b1e0-8ca03800fc26" LastKnownName="gère achat de document" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="6cf4fbd8-6995-4e09-9f64-7e46e39bf09f" name="Personnel" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="ed5eff18-7c9a-4fad-9f57-b842cc904d98" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="23245738-854a-48c8-abab-51b8dc9e280f" name="Achat de document" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="83e6b4b8-02cb-4455-ac64-3426f5450564" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="3f129e67-78a3-4043-ada3-e3ee259e129f" />
+          </association>
+          <association Id="57ba12bc-c80a-4a6d-be32-2929aa26aaf5" isDerived="false" sourceEndRoleName="Personnel" targetEndRoleName="Enregistrement de pret " isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="ed63b93c-df83-41ab-b8df-0c6f6a701eaf" LastKnownName="Enregistrement de pret " />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="7e19a36e-4640-494b-a60c-de98375851fe" name="Personnel" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="c4421599-6ccf-4d83-8fac-fb53f0d300a2" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="86be94c0-221e-47a5-a89b-dde59037a0e8" name="Enregistrement de pret " isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="0e15cd44-d3d2-4494-a051-f76b93b8c7c3" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="62670c81-4720-4879-af3b-2cd434c78791" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="8f0b3ad0-8fdc-498b-970c-6c48350776f8" name="Enregistrement du Client" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="c3dfbc69-6390-4ece-a5f5-c90f96a49fa4" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="6fa9f253-4066-4257-b1e0-8ca03800fc26" name="gère achat de document" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="15e343d1-4ce6-40e7-b694-53a700cb1733" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="ed63b93c-df83-41ab-b8df-0c6f6a701eaf" name="Enregistrement de pret " isAbstract="false" isLeaf="false">
+        <elementDefinition Id="a773fe6c-9ff4-47eb-9aec-4e1cedcad1b1" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="7ca3fcf9-81e3-4f0e-9a98-7c04b402e102" name="Benevol" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="bfcea0ee-7252-4a0e-9798-852e7dc567eb" />
+        <targetEnds>
+          <association Id="0213bbfc-bf9b-4c27-8726-cd0409651ae7" isDerived="false" sourceEndRoleName="Benevol" targetEndRoleName="Enregistrement de pret " isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="ed63b93c-df83-41ab-b8df-0c6f6a701eaf" LastKnownName="Enregistrement de pret " />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="48f26dac-6e58-48b3-9c7b-c38a03d6a179" name="Benevol" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="a22ff29e-6a66-4aee-b128-d2f116accb69" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="45cd6a58-61fb-454e-82da-fd867223c07b" name="Enregistrement de pret " isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="fc7bfaed-e929-4f60-9804-6261d82314a7" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="b617e652-f50d-4386-a498-f7aecdc1b437" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="cb27026a-aa67-4861-a7e5-21f990b940fe" name="Mediatheque">
+    <elementDefinition Id="14a4543c-2787-40fa-b98e-77c021eb2873" />
+  </package>
+</useCaseModelRoot>

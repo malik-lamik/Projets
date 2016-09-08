@@ -1,0 +1,9 @@
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\bin\Debug\L'additionneur.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\bin\Debug\L'additionneur.exe
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\bin\Debug\L'additionneur.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\obj\Debug\L'additionneur.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\obj\Debug\L_additionneur.Form1.resources
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\obj\Debug\L_additionneur.Properties.Resources.resources
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\obj\Debug\L'additionneur.csproj.GenerateResource.Cache
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\obj\Debug\L'additionneur.exe
+c:\users\afpa\documents\visual studio 2015\Projects\WindowsFormsApplication2\L'additionneur\obj\Debug\L'additionneur.pdb

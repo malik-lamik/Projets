@@ -1,0 +1,6 @@
+C:\Users\Marocco13\Documents\Visual Studio 2015\Projects\Calculatrice\ConsoleApplication2\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\Marocco13\Documents\Visual Studio 2015\Projects\Calculatrice\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Marocco13\Documents\Visual Studio 2015\Projects\Calculatrice\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Marocco13\Documents\Visual Studio 2015\Projects\Calculatrice\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Marocco13\Documents\Visual Studio 2015\Projects\Calculatrice\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Marocco13\Documents\Visual Studio 2015\Projects\Calculatrice\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

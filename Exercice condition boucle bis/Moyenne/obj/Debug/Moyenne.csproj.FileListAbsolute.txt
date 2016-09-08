@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\Moyenne\bin\Debug\Moyenne.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\Moyenne\bin\Debug\Moyenne.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\Moyenne\bin\Debug\Moyenne.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\Moyenne\obj\Debug\Moyenne.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\Moyenne\obj\Debug\Moyenne.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercice condition boucle bis\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache

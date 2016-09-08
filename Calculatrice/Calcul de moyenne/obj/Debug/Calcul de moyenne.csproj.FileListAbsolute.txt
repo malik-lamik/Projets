@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calcul de moyenne\bin\Debug\Calcul de moyenne.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calcul de moyenne\bin\Debug\Calcul de moyenne.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calcul de moyenne\bin\Debug\Calcul de moyenne.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calcul de moyenne\obj\Debug\Calcul de moyenne.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calcul de moyenne\obj\Debug\Calcul de moyenne.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calcul de moyenne\obj\Debug\Calcul de moyenne.pdb

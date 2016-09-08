@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\bin\Debug\Defilement.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\bin\Debug\Defilement.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\bin\Debug\Defilement.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\obj\Debug\Defilement.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\obj\Debug\Defilement.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\obj\Debug\Defilement.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\obj\Debug\Defilement.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\obj\Debug\Defilement.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Defilement\obj\Debug\Defilement.Defilement.resources

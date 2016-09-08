@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Conversion du temps\bin\Debug\Conversion du temps.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Conversion du temps\bin\Debug\Conversion du temps.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Conversion du temps\bin\Debug\Conversion du temps.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Conversion du temps\obj\Debug\Conversion du temps.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Conversion du temps\obj\Debug\Conversion du temps.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Conversion du temps\obj\Debug\Conversion du temps.pdb

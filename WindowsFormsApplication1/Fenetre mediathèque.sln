@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login Mediatheque", "WindowsFormsApplication2\Login Mediatheque.csproj", "{3F54C6C0-1CC2-43B9-8E13-2E3AB1BCB757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiche client mediathèque", "WindowsFormsApplication3\Fiche client mediathèque.csproj", "{4C95CC57-F225-4E04-940D-E9349C1DD35B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emprunt livre", "WindowsFormsApplication4\Emprunt livre.csproj", "{98A8D529-6A05-4B60-97BE-99B2C84D33A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication5", "WindowsFormsApplication5\WindowsFormsApplication5.csproj", "{CC5FBE35-7231-4FA3-82C2-9B7A0743E0FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication6", "WindowsFormsApplication6\WindowsFormsApplication6.csproj", "{3EA24747-6EB6-4A50-8B31-5064F9ACEC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication7", "WindowsFormsApplication7\WindowsFormsApplication7.csproj", "{91076C24-40F5-482F-A265-02C90BBD7741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F54C6C0-1CC2-43B9-8E13-2E3AB1BCB757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F54C6C0-1CC2-43B9-8E13-2E3AB1BCB757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F54C6C0-1CC2-43B9-8E13-2E3AB1BCB757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F54C6C0-1CC2-43B9-8E13-2E3AB1BCB757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C95CC57-F225-4E04-940D-E9349C1DD35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C95CC57-F225-4E04-940D-E9349C1DD35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C95CC57-F225-4E04-940D-E9349C1DD35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C95CC57-F225-4E04-940D-E9349C1DD35B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A8D529-6A05-4B60-97BE-99B2C84D33A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A8D529-6A05-4B60-97BE-99B2C84D33A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A8D529-6A05-4B60-97BE-99B2C84D33A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A8D529-6A05-4B60-97BE-99B2C84D33A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5FBE35-7231-4FA3-82C2-9B7A0743E0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5FBE35-7231-4FA3-82C2-9B7A0743E0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5FBE35-7231-4FA3-82C2-9B7A0743E0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5FBE35-7231-4FA3-82C2-9B7A0743E0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA24747-6EB6-4A50-8B31-5064F9ACEC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA24747-6EB6-4A50-8B31-5064F9ACEC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA24747-6EB6-4A50-8B31-5064F9ACEC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA24747-6EB6-4A50-8B31-5064F9ACEC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91076C24-40F5-482F-A265-02C90BBD7741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91076C24-40F5-482F-A265-02C90BBD7741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91076C24-40F5-482F-A265-02C90BBD7741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91076C24-40F5-482F-A265-02C90BBD7741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

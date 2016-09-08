@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\bin\Debug\Les Listes Bis.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\bin\Debug\Les Listes Bis.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\bin\Debug\Les Listes Bis.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\obj\Debug\Les Listes Bis.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\obj\Debug\Les_Listes_Bis.Form1.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\obj\Debug\Les_Listes_Bis.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\obj\Debug\Les Listes Bis.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\obj\Debug\Les Listes Bis.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Les Listes Bis\obj\Debug\Les Listes Bis.pdb

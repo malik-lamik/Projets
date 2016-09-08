@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Algo des boucles\Exercice 5.7\bin\Debug\Exercice 5.7.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Algo des boucles\Exercice 5.7\bin\Debug\Exercice 5.7.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Algo des boucles\Exercice 5.7\bin\Debug\Exercice 5.7.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Algo des boucles\Exercice 5.7\obj\Debug\Exercice 5.7.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Algo des boucles\Exercice 5.7\obj\Debug\Exercice 5.7.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Algo des boucles\Exercice 5.7\obj\Debug\Exercice 5.7.pdb

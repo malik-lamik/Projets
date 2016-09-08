@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Exercice condition boucle bis\la participation\bin\Debug\la participation.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Exercice condition boucle bis\la participation\bin\Debug\la participation.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Exercice condition boucle bis\la participation\bin\Debug\la participation.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Exercice condition boucle bis\la participation\obj\Debug\la participation.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Exercice condition boucle bis\la participation\obj\Debug\la participation.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Exercice condition boucle bis\la participation\obj\Debug\la participation.pdb

@@ -1,0 +1,3 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

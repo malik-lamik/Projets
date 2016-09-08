@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Phase decouverte\le cercle\bin\Debug\le cercle.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Phase decouverte\le cercle\bin\Debug\le cercle.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Phase decouverte\le cercle\bin\Debug\le cercle.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Phase decouverte\le cercle\obj\Debug\le cercle.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Phase decouverte\le cercle\obj\Debug\le cercle.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Phase decouverte\le cercle\obj\Debug\le cercle.pdb

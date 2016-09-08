@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLActivityDiagram1">
+  <activityRootModelMoniker Id="12b7299b-a0c7-44b4-bc2a-73ac21470c6d" />
+  <nestedChildShapes>
+    <objectNodeShape Id="ce5223ff-949e-40fb-82a4-da0b485a759c" absoluteBounds="4.25, 2.25, 1.125, 0.375" customColor="White">
+      <objectNodeMoniker Id="0ebf7b9c-ebfa-4826-bbb4-acef5a198334" LastKnownName="Object1" />
+    </objectNodeShape>
+    <objectNodeShape Id="9e98d4ea-7730-4ae1-a8cd-b4d9ac657216" absoluteBounds="3.125, 1.25, 1.125, 0.375" customColor="White">
+      <objectNodeMoniker Id="b3978c04-2437-47eb-bd8a-d0d116d732a0" LastKnownName="Achat" />
+    </objectNodeShape>
+    <objectNodeShape Id="7d2426f1-b355-4cf8-a5e5-e71d84fd2ec7" absoluteBounds="1, 2.125, 1.125, 0.375" customColor="White">
+      <objectNodeMoniker Id="70146de1-38a2-4a39-b496-4e1f68c1b7d9" LastKnownName="Object12" />
+    </objectNodeShape>
+    <objectNodeShape Id="7000861a-adc9-4e3b-9c98-61a7b5183efd" absoluteBounds="1.75, 3.625, 1.125, 0.375" customColor="White">
+      <objectNodeMoniker Id="39681fe4-d7b2-4783-8744-30552b8293fe" LastKnownName="Object13" />
+    </objectNodeShape>
+    <objectNodeShape Id="0a95aaea-aca0-42f6-bcdd-4b7fcff80831" absoluteBounds="4, 3.625, 1.125, 0.375" customColor="White">
+      <objectNodeMoniker Id="1aac3ea5-514f-458c-a259-94d252e18e86" LastKnownName="Object14" />
+    </objectNodeShape>
+  </nestedChildShapes>
+</activityDiagram>

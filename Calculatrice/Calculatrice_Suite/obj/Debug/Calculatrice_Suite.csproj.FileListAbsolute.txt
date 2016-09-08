@@ -1,0 +1,5 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calculatrice_Suite\bin\Debug\Calculatrice_Suite.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calculatrice_Suite\bin\Debug\Calculatrice_Suite.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calculatrice_Suite\bin\Debug\Calculatrice_Suite.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calculatrice_Suite\obj\Debug\Calculatrice_Suite.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Calculatrice\Calculatrice_Suite\obj\Debug\Calculatrice_Suite.pdb

@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\bin\Debug\La listes et leurs propriétés.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\bin\Debug\La listes et leurs propriétés.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\bin\Debug\La listes et leurs propriétés.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\obj\Debug\La listes et leurs propriétés.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\obj\Debug\La_listes_et_leurs_propriétés.Form1.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\obj\Debug\La_listes_et_leurs_propriétés.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\obj\Debug\La listes et leurs propriétés.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\obj\Debug\La listes et leurs propriétés.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\La listes et leurs propriétés\obj\Debug\La listes et leurs propriétés.pdb

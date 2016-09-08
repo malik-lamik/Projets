@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\bin\Debug\Check et RadioButton.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\bin\Debug\Check et RadioButton.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\bin\Debug\Check et RadioButton.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\obj\Debug\Check et RadioButton.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\obj\Debug\Check_et_RadioButton.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\obj\Debug\Check et RadioButton.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\obj\Debug\Check et RadioButton.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\obj\Debug\Check et RadioButton.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\Check et RadioButton\obj\Debug\Check_et_RadioButton.minuscule.resources

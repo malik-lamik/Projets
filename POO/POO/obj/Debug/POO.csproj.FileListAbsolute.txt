@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\POO\POO\bin\Debug\POO.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\POO\POO\bin\Debug\POO.exe
+c:\users\afpa\documents\visual studio 2015\Projects\POO\POO\bin\Debug\POO.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\POO\POO\obj\Debug\POO.exe
+c:\users\afpa\documents\visual studio 2015\Projects\POO\POO\obj\Debug\POO.pdb
